@@ -10,5 +10,5 @@ package com.enums;
  * @author angel
  */
 public enum Continente {
-    AMERICA
+    AMERICA,EUROPA, ASIA, AFRICA, OCEANIA
 }
