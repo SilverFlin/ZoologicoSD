@@ -1,2 +1,4 @@
 /dist/
 src/META-INF/persistence.xml
+/build/
+build/
